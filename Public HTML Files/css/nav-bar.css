@@ -1,0 +1,34 @@
+.nav-bar a {
+    color: white;
+    font-weight: bold;
+}
+
+.nav-bar{
+	margin-top: .5%;
+	text-align:center;
+}
+
+.navbar, ul{
+    width: 50%;
+    margin: auto;
+}
+
+.nav-pills>li>a:hover{
+    border-color: transparent !important;
+    background-color: transparent !important;
+}
+
+.nav>li>a:focus{
+	border-color: white !important;
+    background-color: white !important;
+}
+
+.nav>li>a:hover{
+	border-color: white !important;
+    background-color: white !important;
+	color: black !important;
+}
+
+.nav>.active>a{
+	background-color:  !important;	
+}

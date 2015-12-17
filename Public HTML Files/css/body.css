@@ -1,0 +1,40 @@
+.container-fluid{
+	background-color: green;
+	text-align: center;
+	height: 100% !important;
+	width: 100%;
+}
+
+.body{
+	margin-top: 1%;
+	font-size: 15px;
+	color: white;
+	font-style: bold;
+}
+
+.body-content-title{
+	margin-top: 5%;
+	font-size: 3em;
+	color: white;
+	font-style: bold;
+}
+
+.SetWinner{
+	margin-left: 33%;
+	margin-right: 33%;
+}
+
+.border, td, th{
+	border: 2px solid black;
+}
+
+.pickTable, td, tr{
+	border: 2px black;
+	border-collapse: separate;
+	border-spacing: 30px;
+}
+
+
+
+
+

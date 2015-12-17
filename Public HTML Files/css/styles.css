@@ -1,0 +1,174 @@
+/*
+  body
+*/
+.container-fluid{
+	background-color: green;
+	text-align: center;
+}
+
+body{
+	font-size: 15px;
+	color: white;
+	background-color: green;
+}
+
+.body-content-title{
+	margin-top: 5%;
+	font-size: 3em;
+	color: white;
+	font-style: bold;
+}
+
+.pickTable{
+	border-collapse: separate;
+	border-spacing: 30px;
+}
+
+.pickTable td{
+  border-collapse: separate;
+	border-spacing: 30px;
+}
+
+.pickTable tr{
+  border-collapse: separate;
+	border-spacing: 30px;
+}
+
+/*
+  Login
+*/
+.login-form{
+	text-align: center;
+	color: white;
+	font-family: bold;
+	font-size: 1.5em;
+	height:auto;
+	width:auto;
+	margin-top:1%;
+	margin-right:25%;
+	margin-left:30%;
+}
+
+.form-signin[type="email"]{
+	background-color:green !important;
+	color:white !important;
+}
+
+.form-signin-heading{
+	text-align: center;
+}
+
+.login-form input {
+    margin: 5px;
+}
+
+.ContestID{
+	background-color:green;
+	
+}
+
+/*
+  Container
+*/
+.container-fluid{
+	background-color: green;
+}
+
+.Contest-Check{
+	Background-color: black;
+	color: red;
+	margin-left: 33%;
+	margin-right: 33%;
+}
+
+/*
+  nav-bar
+*/
+.nav-bar a {
+    color: white;
+    font-weight: bold;
+}
+
+.nav-bar{
+	margin-top: .5%;
+	text-align:center;
+}
+
+.navbar, ul{
+    width: 50%;
+    margin: auto;
+}
+
+.nav-pills>li>a:hover{
+    border-color: transparent !important;
+    background-color: transparent !important;
+}
+
+.nav>li>a:focus{
+	border-color: white !important;
+    background-color: white !important;
+}
+
+.nav>li>a:hover{
+	border-color: white !important;
+    background-color: white !important;
+	color: black !important;
+}
+
+.nav>.active>a{
+	background-color:  !important;
+}
+
+/*
+  Header
+*/
+.header{
+	text-align:center;
+	margin-top: 10px;
+}
+
+.RegisterError{
+	text-align:center;
+	margin-top:20px;
+	margin-left: 32%;
+	margin-right: 32%;
+	font-size: 20px;
+	color: red;
+	background-color: black;
+}
+
+.TimeChart{
+	margin-top: 3%;
+	margin-left: 33%;
+	margin-right: 33%;
+}
+
+/*
+  Admin Home Styes
+*/
+.contestWrapper table{
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid black;
+}
+
+.contestWrapper table td{
+  min-width: 100px;
+}
+
+.UpdateWinner{
+	color: white;
+	background-color: green;
+}
+
+.UpdateWinner input{
+	background-color: green;
+}
+
+/* Successs Picks CSS */
+.Title{
+	color: white;
+	background-color: green;
+	text-align:center;
+	margin-top: 250px;
+}

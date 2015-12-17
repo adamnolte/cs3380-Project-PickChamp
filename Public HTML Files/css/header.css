@@ -1,0 +1,21 @@
+.header{
+	text-align:center;
+	margin-top: 10px;
+}
+
+.RegisterError{
+	text-align:center;
+	margin-top:20px;
+	margin-left: 32%;
+	margin-right: 32%;
+	font-size: 20px;
+	color: red;
+	background-color: black;
+}
+
+.TimeChart{
+	margin-top: 3%;
+	margin-left: 33%;
+	margin-right: 33%;
+	background-color: white;
+}
